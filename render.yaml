@@ -6,4 +6,5 @@ services:
     startCommand: gunicorn -k uvicorn.workers.UvicornWorker app.main:app
     build:
       env:
-        pythonVersion: 3.11.6
+        pythonVersion: 3.12.3
+
