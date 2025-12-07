@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-SQLAlchemy==2.0.19
+SQLAlchemy==2.0.18
 pgvector==0.2.4
 gunicorn==21.2.0
 python-dotenv==1.0.0
